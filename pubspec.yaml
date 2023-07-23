@@ -1,7 +1,8 @@
 name: json_server_api
 description: A package to simulate an API built with Dart.
-version: 1.0.2
-# repository: https://github.com/my_org/my_repo
+version: 1.0.3
+homepage: https://flutterdicas.com.br/bootcamp
+repository: https://github.com/alickbuscariolli/json_server_api
 
 environment:
   sdk: ^3.0.0
